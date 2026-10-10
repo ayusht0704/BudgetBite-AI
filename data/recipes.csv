@@ -1,0 +1,10 @@
+
+recipe_id,meal_name,meal_type,diet,ingredients,protein_g,prep_time_min
+1,Moong Dal Chilla,Breakfast,vegetarian,"moong_dal,oil,onion",14,25
+2,Oats with Milk,Breakfast,vegetarian,"oats,milk",13,10
+3,Boiled Eggs and Roti,Breakfast,egg,"eggs,wheat_flour",16,20
+4,Chana Masala with Rice,Lunch,vegetarian,"chickpeas,rice,onion,tomato",15,35
+5,Moong Dal with Chapati,Lunch,vegetarian,"moong_dal,wheat_flour",18,30
+6,Paneer Bhurji with Roti,Dinner,vegetarian,"paneer,wheat_flour,onion,tomato",22,25
+7,Soy Chunk Curry with Rice,Dinner,vegetarian,"soy_chunks,rice,tomato",25,30
+8,Boiled Chickpeas,Snack,vegetarian,"chickpeas",8,10
